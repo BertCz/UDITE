@@ -10,6 +10,7 @@
         <pohlavi>muž</pohlavi>
         <kredity>12</kredity>
     </osoba>
+    
     <osoba osCislo='R1246'>
         <jmeno>Hana</jmeno>
         <prijmeni>Holíková</prijmeni>
@@ -17,5 +18,14 @@
         <obor>MATAP</obor>
         <rocnik>1</rocnik>
         <pohlavi>žena</pohlavi>
+    </osoba>
+    
+    <osoba osCislo='R1247'>
+        <jmeno>Donald</jmeno>
+        <prijmeni>Kačer</prijmeni>
+        <stav>nestuduje</stav>
+        <obor>MATAP</obor>
+        <rocnik>2</rocnik>
+        <pohlavi>muž</pohlavi>
     </osoba>
 </osoby>
